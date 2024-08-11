@@ -12,7 +12,7 @@
   * And/or, device shows up Kali in IW DEV and IWCONFIG but adapter does not collect/capture clients when using wifite or airodump-ng
     
   * Current vendor, aircrack-ng and morrownr drivers don't resolve issues as of 8/11/2024
-    - morrownr took down 8812au-20210629-main. This [link](https://gitee.com/li_luoman/rtl8812au-20210629) seems to have archived morrownr's page before it was taken down. It may be helpful for install dependenices or addressing other issues not mentioned below.
+    - morrownr took down 8812au-20210629-main. This [link](https://gitee.com/li_luoman/rtl8812au-20210629) appears to have archived morrownr's github page before it was removed. It may be helpful for installing dependenices or addressing other issues not mentioned below.
 
 ### Steps: 
 Setup was tested on Windows 11 running Kali (kali-linux-2024.2-vmware-amd64) virtual machine using VMWare (17.5.0 build-22583795). Kali in VirtualBox (7.0.20) works, too (kali-linux-2024.2-virtualbox-amd64) as of 8/11/2024. 
