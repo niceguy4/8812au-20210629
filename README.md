@@ -11,7 +11,7 @@
     
   * Vendor drivers, aircrack-ng and morrownr don't resolve issue (as of 8/11/2024)
 
-My setup is Windows 11 running a Kali (kali-linux-2024.2-vmware-amd64) virtual machine using VMWare. Kali in Virtualbox works, too (kali-linux-2024.2-virtualbox-amd64) as of 8/11/2024.
+Setup was test for Windows 11 running a Kali (kali-linux-2024.2-vmware-amd64) virtual machine using VMWare. Kali in Virtualbox works, too (kali-linux-2024.2-virtualbox-amd64) as of 8/11/2024.
 
 1. First, unplug USB wireless adapter and uninstall drivers for Realtek RTL8812AU including the ulitity app from Windows.
    
