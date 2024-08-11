@@ -1,8 +1,10 @@
-Credit: https://www.youtube.com/watch?v=Yr-8RmoNi70&t and whoever made 8812au-20210629-main
-Device: ALFA AWUS036ACH - https://www.amazon.com/dp/B08SJC78FH
-Chipset: Realtek RTL8812AU 
+##Credit: https://www.youtube.com/watch?v=Yr-8RmoNi70&t and whoever made 8812au-20210629-main
 
-Issue: 
+##Device: ALFA AWUS036ACH - https://www.amazon.com/dp/B08SJC78FH
+
+##Chipset: Realtek RTL8812AU 
+
+###Issue: 
   Device no showing up in Kali Linux
   Device showing up but not collecting/catching clients
 
