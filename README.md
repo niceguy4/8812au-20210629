@@ -11,9 +11,13 @@
 My setup is Windows 11 running virtual machine using VMWare for Kali (kali-linux-2024.2-vmware-amd64). 
 
 I uninstalled the Windows 11 drivers for Realtek RTL8812AU including the ulitity app. Restarted computer and then plugged USB wireless adapter back into USB slot (make sure blue light blinks or move to another USB slot)
+
 Go to Windows Device Manager, right click on the adapter uner Network Adapters, Update Driver, Search automatically for Drivers
+
 Load Kali Linux using VMWare
+
 And then following intructions from 
+
 ```
 be sure to remove all the drivers before you follow the steps to avoid any error 
 
