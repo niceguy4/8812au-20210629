@@ -17,7 +17,7 @@ My setup is Windows 11 running a Kali (kali-linux-2024.2-vmware-amd64) virtual m
 
 2. Go to Windows Device Manager, right click on the adapter under Network Adapters, Update Driver, Search automatically for Drivers. Restart computer.
 
-3. Load Kali Linux using VMWare
+3. Load Kali Linux using VMWare. This also works in Virtualbox (as of 8/11/2024)
 
 4. And then follow intructions from https://www.youtube.com/@ka3boosh48 . Note, I've included the driver file in github in case mediafire link goes down.
 
