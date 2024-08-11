@@ -12,10 +12,9 @@
   * And/or, device shows up Kali in IW DEV and IWCONFIG but adapter does not collect/capture clients when using wifite or airodump-ng
     
   * Current vendor, aircrack-ng and morrownr driver updates don't resolve issue as of 8/11/2024
-     - Wireless adapter works in Windows 11 (shows networks and will connect to networks in Windows 11)
 
 ### Steps: 
-Setup was tested on Windows 11 running Kali (kali-linux-2024.2-vmware-amd64) virtual machine using VMWare (17.5.0 build-22583795). Kali in VirtualBox (7.0.20) works, too (kali-linux-2024.2-virtualbox-amd64) as of 8/11/2024.
+Setup was tested on Windows 11 running Kali (kali-linux-2024.2-vmware-amd64) virtual machine using VMWare (17.5.0 build-22583795). Kali in VirtualBox (7.0.20) works, too (kali-linux-2024.2-virtualbox-amd64) as of 8/11/2024. Prior to this fix below, the wireless adapter worked in Windows 11 and it showed networks and will connect to networks in Windows 11 but the wirelesss adapter did not work in Kali.
 
 1. First, assuming you have ethernet, unplug USB wireless adapter and uninstall the Windows drivers for Realtek RTL8812AU including the utility app.
    
