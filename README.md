@@ -20,7 +20,7 @@ Setup was tested on Windows 11 running Kali (kali-linux-2024.2-vmware-amd64) vir
    
 2. Restart computer and then plug USB wireless adapter back into USB slot. Mmake sure the blue light blinks on the wireless adapter or move to another USB slot.
 
-3. Go to Windows Device Manager, right click on the adapter under Network Adapters, Update Driver, Search automatically for Drivers. Restart computer.
+3. Go to Windows Device Manager, right click on the adapter under Network Adapters, Update Driver, Search automatically for Drivers (requires internet). Restart computer.
 
    ![pray](https://raw.githubusercontent.com/niceguy4/8812au-20210629/main/device_manager.png)
 
