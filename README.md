@@ -4,12 +4,14 @@
 
 ### Chipset: Realtek RTL8812AU 
 
+### Kali: 2024.2
+
 ### Issue: 
   * Device not showing up in Kali Linux. It may show up in LSUSB but not in IW DEV or IWCONFIG
     
   * And/or, device shows up Kali in IW DEV and IWCONFIG but adapter does not collect/capture clients when using wifite or airodump-ng
     
-  * Vendor drivers, aircrack-ng and morrownr don't resolve issue (as of 8/11/2024)
+  * Vendor, aircrack-ng and morrownr driver updates don't resolve issue as of 8/11/2024
 
 ### Steps: 
 Setup was tested for Windows 11 running a Kali (kali-linux-2024.2-vmware-amd64) virtual machine using VMWare. Kali in Virtualbox works, too (kali-linux-2024.2-virtualbox-amd64) as of 8/11/2024.
