@@ -14,7 +14,7 @@ I uninstalled the Windows 11 drivers for Realtek RTL8812AU including the ulitity
 Go to Windows Device Manager, right click on the adapter uner Network Adapters, Update Driver, Search automatically for Drivers
 Load Kali Linux using VMWare
 And then following intructions from 
-
+```
 be sure to remove all the drivers before you follow the steps to avoid any error 
 
 for new installation of kali linux 2024.2
@@ -46,3 +46,4 @@ after its done click N then Y then reboot the system
 you are good to go your ALFA awus036ach ac1200 will be working without any issue 
 
 if this fix your issue please share and like thank you
+```
