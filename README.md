@@ -69,3 +69,7 @@ if this fix your issue please share and like thank you
 * For Kali in VirtualBox, I did have to unplug the adapter once or twice to get the card to show up in IW DEV after the steps above. Also, within VirtualBox I had to set the USB Controller to USB 2.0 under Settings -> USB. 
 
 * Setup was successful using the standard USB, not USB-C. The card came with a USB-C to USB adapter. I had to move the USB plug to different slots until the lights were blinking blue on the wireless card.
+  
+ ![sad](https://raw.githubusercontent.com/niceguy4/8812au-20210629/main/242606_LinuxWifiMeme.jpg)
+
+ ![sadx2](https://raw.githubusercontent.com/niceguy4/8812au-20210629/main/sad.png)
