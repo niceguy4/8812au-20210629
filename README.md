@@ -5,15 +5,15 @@
 ### Chipset: Realtek RTL8812AU 
 
 ### Issue: 
-  * Device no showing up in Kali Linux
+  * Device not showing up in Kali Linux. It may show up in LSUSB but not in IW DEV or IWCONFIG
     
-  * Device shows up in Kali but does not collect/capture clients
+  * Device shows up Kali in IW DEV and IWCONFIGp but does not collect/capture clients
 
 My setup is Windows 11 running virtual machine using VMWare for Kali (kali-linux-2024.2-vmware-amd64). 
 
-1. I uninstalled the Windows 11 drivers for Realtek RTL8812AU including the ulitity app. Restarted computer and then plugged USB wireless adapter back into USB slot (make sure blue light blinks or move to another USB slot)
+1. I uninstalled the Windows 11 drivers for Realtek RTL8812AU including the ulitity app. Restarted computer and then plugged USB wireless adapter back into USB slot (make sure blue light blinks or move to another USB slot).
 
-2. Go to Windows Device Manager, right click on the adapter uner Network Adapters, Update Driver, Search automatically for Drivers
+2. Go to Windows Device Manager, right click on the adapter under Network Adapters, Update Driver, Search automatically for Drivers. Restart computer.
 
 3. Load Kali Linux using VMWare
 
@@ -39,7 +39,7 @@ hit inter the system will download kali-headers for 6.8.11
 
 Next copy the zip file and extract it ( see the video )
 Download the driver file from here
-www.mediafire.com/file/tuyze3vc65zckne/8812au-20210629-main.zip/file
+www.mediafire.com/file/tuyze3vc65zckne/8812au-20210629-main.zip/file (or download github here)
 
 open terminal 
 inter this command 
