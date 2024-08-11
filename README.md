@@ -14,9 +14,9 @@
   * Vendor, aircrack-ng and morrownr driver updates don't resolve issue as of 8/11/2024
 
 ### Steps: 
-Setup was tested for Windows 11 running a Kali (kali-linux-2024.2-vmware-amd64) virtual machine using VMWare. Kali in Virtualbox works, too (kali-linux-2024.2-virtualbox-amd64) as of 8/11/2024.
+Setup was tested on Windows 11 running Kali (kali-linux-2024.2-vmware-amd64) virtual machine using VMWare. Kali in Virtualbox works, too (kali-linux-2024.2-virtualbox-amd64) as of 8/11/2024.
 
-1. First, unplug USB wireless adapter and uninstall drivers for Realtek RTL8812AU including the ulitity app from Windows.
+1. First, assuming you have ethernet unplug USB wireless adapter and uninstall Windows drivers for Realtek RTL8812AU including the utility app.
    
 2. Restart computer and then plugged USB wireless adapter back into USB slot (make sure blue light blinks or move to another USB slot).
 
