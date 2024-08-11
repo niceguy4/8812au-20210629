@@ -17,7 +17,7 @@
 ### Steps: 
 Setup was tested on Windows 11 running Kali (kali-linux-2024.2-vmware-amd64) virtual machine using VMWare (17.5.0 build-22583795). Kali in VirtualBox (7.0.20) works, too (kali-linux-2024.2-virtualbox-amd64) as of 8/11/2024. 
 
-Note that the wireless adapter worked in Windows 11. It showed networks and will connect to networks in Windows 11 but the wirelesss adapter did not work in Kali. If the card does not work in Windows 11, you may have to troubleshoot before moving forward with these steps.
+Note that during my test the wireless adapter works in Windows 11 prior to do anything. It showed networks and will connect to networks in Windows 11 but the wirelesss adapter did not work in Kali. If the card does not work in Windows 11, you may have to troubleshoot before moving forward with these steps.
 
 1. First, assuming you have ethernet, unplug USB wireless adapter and uninstall the Windows drivers for Realtek RTL8812AU including the utility app.
    
