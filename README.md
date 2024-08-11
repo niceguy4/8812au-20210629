@@ -7,7 +7,7 @@
 ### Issue: 
   * Device not showing up in Kali Linux. It may show up in LSUSB but not in IW DEV or IWCONFIG
     
-  * Device shows up Kali in IW DEV and IWCONFIGp but does not collect/capture clients
+  * Device shows up Kali in IW DEV and IWCONFIG but adapter does not collect/capture clients when using wifite or airodump-ng
     
   * Vendor drivers, aircrack-ng and morrownr don't resolve issue (as of 8/11/2024)
 
