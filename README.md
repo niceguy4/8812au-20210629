@@ -8,6 +8,8 @@
   * Device not showing up in Kali Linux. It may show up in LSUSB but not in IW DEV or IWCONFIG
     
   * Device shows up Kali in IW DEV and IWCONFIGp but does not collect/capture clients
+    
+  * Vendor drivers, aircrack-ng and morrownr don't resolve issue (as of 8/11/2024)
 
 My setup is Windows 11 running virtual machine using VMWare for Kali (kali-linux-2024.2-vmware-amd64). 
 
