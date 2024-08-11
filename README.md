@@ -72,6 +72,6 @@ if this fix your issue please share and like thank you
 
   Funny but not funny.
   
- ![sad](https://raw.githubusercontent.com/niceguy4/8812au-20210629/main/242606_LinuxWifiMeme.jpg)
+ ![sad](https://raw.githubusercontent.com/niceguy4/8812au-20210629/main/img/242606_LinuxWifiMeme.jpg)
 
- ![sadx2](https://raw.githubusercontent.com/niceguy4/8812au-20210629/main/sad.png)
+ ![sadx2](https://raw.githubusercontent.com/niceguy4/8812au-20210629/main/img/sad.png)
