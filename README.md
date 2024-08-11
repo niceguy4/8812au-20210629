@@ -25,7 +25,7 @@ Note that during my test the wireless adapter already worked in Windows 11. It s
 
 3. Go to Windows Device Manager, right click on the adapter under Network Adapters, Update Driver, Search automatically for Drivers (requires internet). Restart computer.
 
-   ![pray](https://raw.githubusercontent.com/niceguy4/8812au-20210629/main/device_manager.png)
+   ![pray](https://raw.githubusercontent.com/niceguy4/8812au-20210629/main/img/device_manager.png)
 
 4. Load Kali in VMWare or VirtualBox.
 
