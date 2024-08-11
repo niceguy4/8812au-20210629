@@ -29,7 +29,7 @@ Note that during my test the wireless adapter already worked in Windows 11. It s
 
 4. Load Kali in VMWare or VirtualBox.
 
-5. And then follow intructions from https://www.youtube.com/@ka3boosh48 . Note, I've included the driver file in github in case mediafire link goes down.
+5. Then follow intructions from https://www.youtube.com/@ka3boosh48 . Instructions are below, too. Note, I've included the driver file in github in case mediafire link goes down.
 
 ```
 be sure to remove all the drivers before you follow the steps to avoid any error 
