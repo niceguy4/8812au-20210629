@@ -17,7 +17,7 @@ My setup is Windows 11 running virtual machine using VMWare for Kali (kali-linux
 
 3. Load Kali Linux using VMWare
 
-4. And then following intructions from 
+4. And then follow intructions from https://www.youtube.com/@ka3boosh48
 
 ```
 be sure to remove all the drivers before you follow the steps to avoid any error 
