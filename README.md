@@ -16,9 +16,9 @@
 ### Steps: 
 Setup was tested on Windows 11 running Kali (kali-linux-2024.2-vmware-amd64) virtual machine using VMWare. Kali in Virtualbox works, too (kali-linux-2024.2-virtualbox-amd64) as of 8/11/2024.
 
-1. First, assuming you have ethernet unplug USB wireless adapter and uninstall Windows drivers for Realtek RTL8812AU including the utility app.
+1. First, assuming you have ethernet, unplug USB wireless adapter and uninstall the Windows drivers for Realtek RTL8812AU including the utility app.
    
-2. Restart computer and then plugged USB wireless adapter back into USB slot (make sure blue light blinks or move to another USB slot).
+2. Restart computer and then plug USB wireless adapter back into USB slot. Mmake sure the blue light blinks on the wireless adapter or move to another USB slot.
 
 3. Go to Windows Device Manager, right click on the adapter under Network Adapters, Update Driver, Search automatically for Drivers. Restart computer.
 
@@ -61,3 +61,8 @@ you are good to go your ALFA awus036ach ac1200 will be working without any issue
 
 if this fix your issue please share and like thank you
 ```
+### Notes:
+
+* For Kali in Virtualbox, I did have to unplug the adapter once or twice to get the card to show up in IW DEV. Also, within Virtualbox I had to see the USB Controller to USB 2.0 under Settings -> USB. 
+
+* Setup was test using the standard USB, not USB-C. I had to move the USB adapter to different USB slots until the lights were blinking blue.
