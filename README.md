@@ -19,7 +19,7 @@ My setup is Windows 11 running a Kali (kali-linux-2024.2-vmware-amd64) virtual m
 
 3. Load Kali Linux using VMWare
 
-4. And then follow intructions from https://www.youtube.com/@ka3boosh48
+4. And then follow intructions from https://www.youtube.com/@ka3boosh48 . Note, I've included the driver file in github in case mediafire link goes down.
 
 ```
 be sure to remove all the drivers before you follow the steps to avoid any error 
