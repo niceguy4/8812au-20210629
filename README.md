@@ -24,7 +24,7 @@ Setup was tested on Windows 11 running Kali (kali-linux-2024.2-vmware-amd64) vir
 
    ![pray](https://raw.githubusercontent.com/niceguy4/8812au-20210629/main/device_manager.png)
 
-4. Load Kali in VMWare or Virtualbox.
+4. Load Kali in VMWare or VirtualBox.
 
 5. And then follow intructions from https://www.youtube.com/@ka3boosh48 . Note, I've included the driver file in github in case mediafire link goes down.
 
