@@ -1,4 +1,4 @@
-### Credit: https://www.youtube.com/watch?v=Yr-8RmoNi70&t and whoever made 8812au-20210629-main
+### Credit: https://www.youtube.com/watch?v=Yr-8RmoNi70&t and [whoever made](https://github.com/morrownr/) for 8812au-20210629-main
 
 ### Device: ALFA AWUS036ACH - https://www.amazon.com/dp/B08SJC78FH - AWUS036ACH Long-Range Dual-Band AC1200 Wireless Wi-Fi Adapter w/2x 5dBi External Antennas – 2.4GHz 300Mbps/5GHz 867Mbps – 802.11ac & A, B, G, N
 
