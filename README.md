@@ -7,7 +7,7 @@
 ### Issue: 
   * Device no showing up in Kali Linux
     
-  * Device showing up but not collecting/catching clients
+  * Device shows up in Kali but does not collect/capture clients
 
 My setup is Windows 11 running virtual machine using VMWare for Kali (kali-linux-2024.2-vmware-amd64). 
 
