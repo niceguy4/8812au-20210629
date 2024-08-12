@@ -13,11 +13,14 @@
     
   * Current vendor, aircrack-ng and morrownr drivers don't resolve issues as of 8/11/2024
     - morrownr took down 8812au-20210629-main. This [link](https://gitee.com/li_luoman/rtl8812au-20210629) appears to have archived morrownr's github page before it was removed. It may be helpful for installing dependenices or addressing other issues not mentioned below.
+      
+----------------------------------------------------------
 
-### Steps: 
 Setup was tested on Windows 11 running Kali (kali-linux-2024.2-vmware-amd64) virtual machine using VMWare (17.5.0 build-22583795). Kali in VirtualBox (7.0.20) works, too (kali-linux-2024.2-virtualbox-amd64) as of 8/11/2024. 
 
-Note that during my test the wireless adapter already worked in Windows 11. It shows networks and will connect to networks in Windows 11 but the wirelesss adapter did not work in Kali. If the card currently does not work in Windows 11, you may have to troubleshoot before moving forward with these steps.
+Note that during my test the wireless adapter already worked in Windows 11. It shows networks and will connect to networks in Windows 11 but the wirelesss adapter did not work in Kali. If the card currently does not work in Windows 11, you may have to troubleshoot before moving forward with these steps
+
+### Steps: 
 
 1. First, assuming you have ethernet, unplug USB wireless adapter and uninstall the Windows drivers for Realtek RTL8812AU including the utility app.
    
